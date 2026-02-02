@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## assumes htstream is available on the Pathway
+## assumes htstream is available on the Pathway or in your conda environment
 ## This works with HTStream version 1.3.2
 
 start=`date +%s`
